@@ -6,7 +6,8 @@
 /echo "Hello"  
 |Я обучаюсь дисциплинам:|
 |:---:|
-|Информатика Математика|
+|Информатика| 
+|Математика|
 |История|
 |И т д|
 ![Котик](https://img.magnific.com/free-photo/view-adorable-kitten-inside-house_23-2150758114.jpg?semt=ais_hybrid&w=740)
