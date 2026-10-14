@@ -2,7 +2,6 @@
 #include <cmath>
 
 int main() {
-    double a;
     double sum;
     for (double n = 1; n <= 15; n++)
     {
