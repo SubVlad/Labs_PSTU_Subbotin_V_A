@@ -1,0 +1,1 @@
+clang++ turing.cpp -o turing && turing
