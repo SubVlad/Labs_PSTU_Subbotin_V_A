@@ -1,0 +1,1 @@
+clang++ homeWork.cpp -o homeWork && homeWork
